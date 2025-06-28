@@ -12,4 +12,4 @@ pip install --no-index opencv-gstreamer-build\opencv_python_gstreamer-4.10.0.0+g
 
 
 ## Licensing
-You can you this wheel as you please, however keep in mind that gstreamer is licensed under LGPL.
+You can you this wheel as you please, however keep in mind that GStreamer is licensed under the LGPL license.
