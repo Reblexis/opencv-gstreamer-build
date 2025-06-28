@@ -7,6 +7,7 @@ To install, run:
 ```bash
 git clone git@github.com:Reblexis/opencv-gstreamer-build.git
 pip uninstall opencv-python -y
+pip install numpy
 pip install --no-index opencv-gstreamer-build\opencv_python_gstreamer-4.10.0.0+gst-py3-none-any.whl
 ```
 
