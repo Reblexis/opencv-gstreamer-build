@@ -1,5 +1,5 @@
 # OpenCV GStreamer Build
-OpenCV 4.10 wheel built with GStreamer support. Tested on Python 3.10 but should work on 3.8+ python versions on Windows. Using GStreamer OpenCV can read camera at higher FPS and less latency.
+OpenCV 4.10 wheel built with GStreamer support. Tested on Python 3.10 but should work on 3.8+ python versions on Windows. Using GStreamer OpenCV can read camera at higher FPS and less latency and much more.
 
 The wheel also contains minimal GStreamer library which supports camera capture using MF or DSHOW and it should be used automatically so you don't have to download GStreamer and link to it separately. If you want more GStreamer features, modify __init__.py in the cv2 package (located in your python environment folder) to load your own GStreamer version.
 
